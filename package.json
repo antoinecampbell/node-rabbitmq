@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "ts-node index",
-    "receiver": "ts-node receiver",
+    "consumer": "ts-node receiver",
     "exchange": "ts-node exchange"
   },
   "keywords": [],
